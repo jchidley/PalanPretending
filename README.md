@@ -1,0 +1,2 @@
+# PalanPretending
+Exercies for Palantype
